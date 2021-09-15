@@ -59,6 +59,7 @@ Bu pratikte amaç belli ücretin altında ise sabit fiyat, değil ise kendi fiya
 Aşağıda ise elde edilen sonuç belirtilmektedir.
 
 * 20 TL ve Altı
+
 ![img1](imgs/Ucret20alti.png.png)
 
 * 20 TL Üzeri
