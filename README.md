@@ -4,7 +4,7 @@
 
 Bu pratikte amaç If Else komutları olmadan sorgu yapıp buna uygun çıktı sunabilmektir.
 
-Ödev içeriğinin bulunduğu [ders videosuna] (https://app.patika.dev/moduller/java101/pratik-not-ortalamasi) tıklayarak ulaşım sağlanabilir.
+Ödev içeriğinin bulunduğu [ders videosuna](https://app.patika.dev/moduller/java101/pratik-not-ortalamasi) tıklayarak ulaşım sağlanabilir.
 
 Aşağıda ise elde edilen sonuç belirtilmektedir
 
