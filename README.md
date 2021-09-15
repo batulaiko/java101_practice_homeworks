@@ -31,4 +31,4 @@ Aşağıda ise elde edilen sonuç belirtilmektedir.
 
 * KDV 1000 TL Üzeri
 
-![img1](imgs/kdv_08.png)
+![img1](imgs/kdv_08.png) 
