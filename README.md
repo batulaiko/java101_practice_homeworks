@@ -8,10 +8,10 @@ Bu pratikte amaç If Else komutları olmadan sorgu yapıp buna uygun çıktı su
 
 Aşağıda ise elde edilen sonuç belirtilmektedir
 
-### Not Ortalaması Sınıfı Geçti
+* Not Ortalaması Sınıfı Geçti
 
 ![img1](imgs/temel_kavramlar_pass.png)
 
-### Not Ortalaması Sınıfta Kaldı
+* Not Ortalaması Sınıfta Kaldı
 
 ![img1](imgs/temel_kavramlar_fail.png)
