@@ -6,7 +6,7 @@ Bu pratikte amaç If Else komutları olmadan sorgu yapıp buna uygun çıktı su
 
 Ödev içeriğinin bulunduğu [ders videosuna](https://app.patika.dev/moduller/java101/pratik-not-ortalamasi) tıklayarak ulaşım sağlanabilir.
 
-Aşağıda ise elde edilen sonuç belirtilmektedir
+Aşağıda ise elde edilen sonuç belirtilmektedir.
 
 * Not Ortalaması Sınıfı Geçti
 
