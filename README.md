@@ -32,3 +32,20 @@ Aşağıda ise elde edilen sonuç belirtilmektedir.
 * KDV 1000 TL Üzeri
 
 ![img1](imgs/kdv_08.png) 
+
+
+## 3. Üçgen Hipotenus / Alan Hesaplama
+
+Bu pratikte bir üçgenin kenar bilgileri girilerek tercihe göre Alan ya da Hipotenüs bilgilerinin bulunması hedeflenmektedir.
+
+Ödev içeriğinin bulunduğu [ders videosuna](https://app.patika.dev/moduller/java101/pratik-hipotenus-bulma) tıklayarak ulaşım sağlanabilir.
+
+Aşağıda ise elde edilen sonuç belirtilmektedir.
+
+* Çevre ve Alan
+
+![img1](imgs/alan_cevre.png)
+
+* Hipotenüs
+
+![img1](imgs/hipotenus.png) 
