@@ -93,7 +93,7 @@ Bu ödevde verilen boy ve kilo oranına göre vücut endeksi sonucu ve kilo oran
 
 Aşağıda ise elde edilen sonuç belirtilmektedir.
 
-* Normal Kilolu Birey
+* Normal Kilolu Birey 
 
 ![img1](imgs/homeworks/normal_kilo.png)
 
