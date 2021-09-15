@@ -49,3 +49,18 @@ Aşağıda ise elde edilen sonuç belirtilmektedir.
 * Hipotenüs
 
 ![img1](imgs/hipotenus.png) 
+
+## 4. Taksimetre
+
+Bu pratikte amaç belli ücretin altında ise sabit fiyat, değil ise kendi fiyatına sahip bir taksimetre uygulamasını gerçekleştirmektir.
+
+Ödev içeriğinin bulunduğu [ders videosuna](https://app.patika.dev/moduller/java101/pratik-taksimetre) tıklayarak ulaşım sağlanabilir.
+
+Aşağıda ise elde edilen sonuç belirtilmektedir.
+
+* 20 TL ve Altı
+![img1](imgs/Ucret20alti.png.png)
+
+* 20 TL Üzeri
+
+![img1](imgs/Ucret20ustu.png.png)
