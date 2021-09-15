@@ -65,3 +65,16 @@ Aşağıda ise elde edilen sonuç belirtilmektedir.
 * 20 TL Üzeri
 
 ![img1](imgs/Ucret20ustu.png)
+
+
+## 5. Daire Çevre, Alan, Taralı Alan Hesaplama
+
+Bu pratikte yarıçapı ve merkez açısı belirli bir dairenin çevresi, alanı ve taralı alanının bulunması gerçekleştirilmiştir.
+
+Ödev içeriğinin bulunduğu [ders videosuna](https://app.patika.dev/moduller/java101/pratik-daire-alan-cevre) tıklayarak ulaşım sağlanabilir.
+
+Aşağıda ise elde edilen sonuç belirtilmektedir.
+
+* Yarı Çapı 5cm, Merkez Açısı 300 Derece
+
+![img1](imgs/daire.png)
