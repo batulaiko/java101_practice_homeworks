@@ -60,8 +60,8 @@ Aşağıda ise elde edilen sonuç belirtilmektedir.
 
 * 20 TL ve Altı
 
-![img1](imgs/Ucret20alti.png.png)
+![img1](imgs/Ucret20alti.png)
 
 * 20 TL Üzeri
 
-![img1](imgs/Ucret20ustu.png.png)
+![img1](imgs/Ucret20ustu.png)
