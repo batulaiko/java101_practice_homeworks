@@ -85,9 +85,9 @@ Aşağıda ise elde edilen sonuç belirtilmektedir.
 
 ## Ödevler
 
-### 1. [Kilo Boy Endeks Ölçümü](https://google.com)
+### 1. [Kilo Boy Endeks Ölçümü](https://github.com/batulaiko/java101_practice_homeworks/tree/main/homeworks/kilo_boy)
 
-Bu ödevde verilen boy ve kilo oranına göre vücut endeksi sonucu ve kilo oranı çıktı olarak sunulması hedeflenmiştir.
+Bu ödevde, verilen boy ve kilo oranına göre vücut endeksi sonucu ve kilo oranı çıktı olarak sunulması hedeflenmiştir.
 
 Ödev içeriğinin bulunduğu [ders videosuna](https://app.patika.dev/moduller/java101/odev-vucut-kitle-hesaplama) tıklayarak ulaşım sağlanabilir.
 
@@ -100,3 +100,15 @@ Aşağıda ise elde edilen sonuç belirtilmektedir.
 * Fazla Kilolu Birey
 
 ![img1](imgs/homeworks/fazla_kilo.png)
+
+### 2. [Manav Kasa Programı](https://github.com/batulaiko/java101_practice_homeworks/tree/main/homeworks/manav_kasa)
+
+Bu ödevde, verilen meyve sebzenin kilo başına  düşen fiyatı ile toplam manav alışverişinin hesaplanması amaçlanmıştır.
+
+Ödev içeriğinin bulunduğu [ders videosuna](https://app.patika.dev/moduller/java101/odev-manav-kasa) tıklayarak ulaşım sağlanabilir.
+
+Aşağıda ise elde edilen sonuç belirtilmektedir.
+
+* Hesaplama Sonucu
+
+![img](imgs/homeworks/manav.png)
