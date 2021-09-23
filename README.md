@@ -81,6 +81,21 @@ Aşağıda ise elde edilen sonuç belirtilmektedir.
 
 ![img1](imgs/practice/daire.png)
 
+### 6. [Hesap Makinesi](https://github.com/batulaiko/java101_practice_homeworks/tree/main/practice/hesap_makinesi)
+
+Bu pratikte önce sayıları daha sonra yapılacak işlemi belirleyerek sonucu çıktı olarak sunulması hedeflenmiştir.
+
+Ödev içeriğinin bulunduğu [ders videosuna](https://app.patika.dev/moduller/java101/pratik-hesap-mak-1) tıklayarak ulaşım sağlanabilir.
+
+Aşağıda ise elde edilen sonuç belirtilmektedir.
+
+*Çarpma İşlemi
+
+![img](imgs/practice/hesap_carpma.png)
+
+*Toplama İşlemi
+
+![img](imgs/practice/hesap_toplama.png)
 
 
 ## Ödevler
@@ -101,7 +116,7 @@ Aşağıda ise elde edilen sonuç belirtilmektedir.
 
 ![img1](imgs/homeworks/fazla_kilo.png)
 
-### 2. [Manav Kasa Programı](https://github.com/batulaiko/java101_practice_homeworks/tree/main/homeworks/manav_kasa)
+### 2 [Manav Kasa Programı](https://github.com/batulaiko/java101_practice_homeworks/tree/main/homeworks/manav_kasa)
 
 Bu ödevde, verilen meyve sebzenin kilo başına  düşen fiyatı ile toplam manav alışverişinin hesaplanması amaçlanmıştır.
 
@@ -112,3 +127,4 @@ Aşağıda ise elde edilen sonuç belirtilmektedir.
 * Hesaplama Sonucu
 
 ![img](imgs/homeworks/manav.png)
+
