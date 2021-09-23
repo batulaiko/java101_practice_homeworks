@@ -97,6 +97,22 @@ Aşağıda ise elde edilen sonuç belirtilmektedir.
 
 ![img](imgs/practice/hesap_toplama.png)
 
+### 7. [Kullanıcı Girişi](https://github.com/batulaiko/java101_practice_homeworks/tree/main/practice/kullanici_girisi)
+
+Bu pratikte belirli kullanıcı adı ve şifre ile girdiyi karşılaştıran bir uygulama tasarlanmıştır.
+
+Ödev içeriğinin bulunduğu [ders videosuna](https://app.patika.dev/moduller/java101/pratik-login-1) tıklayarak ulaşım sağlanabilir.
+
+Aşağıda ise elde edilen sonuç belirtilmektedir.
+
+*Giriş Hatalı
+
+![img](imgs/practice/kullanici_wrong.png)
+
+*Giriş Doğru
+
+![img](imgs/practice/kullanici_passed.png)
+
 
 ## Ödevler
 
